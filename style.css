@@ -1,0 +1,9 @@
+ol.list{
+    list-style: georgian;
+}
+ol.first{
+    list-style: decimal-leading-zero;
+}
+ul.one{
+    list-style: outside;
+}
